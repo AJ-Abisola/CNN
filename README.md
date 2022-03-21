@@ -1,2 +1,1 @@
-# CNN-Clothes-Classifier
-CLASSIFYING 10 CATEGORIES OF CLOTHING ITEMS
+# CNN-Projects
